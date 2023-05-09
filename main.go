@@ -1,5 +1,7 @@
 package main
 
+// 26.1 Программа-аналог cat
+
 import (
 	"fmt"
 	"flag"
